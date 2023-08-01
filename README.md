@@ -17,15 +17,15 @@ I like to learn new things about science and technology. As well as the correct 
 ### Programing languages
 
 <p>
-  <img width="13%" src="assets/img/lang_programing/java-icon.svg" /> 
+  <img width="10%" src="assets/img/lang_programing/java-icon.svg" /> 
   &nbsp;&nbsp;&nbsp;
-  <img width="10%" src="assets/img/lang_programing/csharp.svg" />
+  <img width="9%" src="assets/img/lang_programing/csharp.svg" />
   &nbsp;&nbsp;&nbsp;
-  <img width="20%" src="assets/img/lang_programing/php.svg" />
+  <img width="18%" src="assets/img/lang_programing/php.svg" />
   &nbsp;&nbsp;&nbsp;
-  <img width="10%" src="assets/img/lang_programing/javascript.svg" />
+  <img width="9%" src="assets/img/lang_programing/javascript.svg" />
   &nbsp;&nbsp;&nbsp;
-  <img width="10%" src="assets/img/lang_programing/python.svg" />
+  <img width="9%" src="assets/img/lang_programing/python.svg" />
 </p>
  
 ### Frameworks, libraries and others.
@@ -34,50 +34,39 @@ I like to learn new things about science and technology. As well as the correct 
 
 <p>
 
-  [<img width="13%" src="assets/img/frameworksorlibs/spring-3.svg" />](https://spring.io/)
+  [<img width="10%" src="assets/img/frameworksorlibs/spring-3.svg" />](https://spring.io/)
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codeigniter.com/">
-    <img width="13%" src="assets/img/frameworksorlibs/codeigniter.svg" /> 
-  </a>
+  [<img width="9%" src="assets/img/frameworksorlibs/codeigniter.svg" />](https://www.codeigniter.com/)
   &nbsp;&nbsp;&nbsp;
-  <a href="https://dotnet.microsoft.com/">
-    <img width="19%" src="assets/img/frameworksorlibs/netcore.svg" /> 
-  </a>
+  [<img width="15%" src="assets/img/frameworksorlibs/netcore.svg" />](https://dotnet.microsoft.com/) 
   &nbsp;&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/framework/">
-    <img width="15%" src="assets/img/frameworksorlibs/netframework.svg" /> 
-  </a>
+  [<img width="11%" src="assets/img/frameworksorlibs/netframework.svg" />](https://learn.microsoft.com/en-us/dotnet/framework/)
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.djangoproject.com/">
-    <img width="9%" src="assets/img/frameworksorlibs/django.svg" /> 
-  </a>
+  [<img width="8%" src="assets/img/frameworksorlibs/django.svg" />](https://www.djangoproject.com/)
 </p>
 
 > Frontend frameworks and libraries
 
 <p>
-  <a href="https://vuejs.org/">
-    <img width="13%" src="assets/img/frameworksorlibs/vue-9.svg" /> 
-  </a>
+
+  [<img width="10%" src="assets/img/frameworksorlibs/vue-9.svg" />](https://vuejs.org/)
   &nbsp;&nbsp;&nbsp;
-  <a href="https://nuxt.com/">
-    <img width="13%" src="assets/img/frameworksorlibs/nuxt-2.svg" /> 
-  </a>
+  [<img width="10%" src="assets/img/frameworksorlibs/nuxt-2.svg" />](https://nuxt.com/)
   &nbsp;&nbsp;&nbsp;
-  <img width="12%" src="assets/img/frameworksorlibs/react.svg" /> 
+  [<img width="9%" src="assets/img/frameworksorlibs/react.svg" />](https://es.react.dev/)
   &nbsp;&nbsp;&nbsp;
 </p>
 
 > Others
 
 <p>
-  <img width="16%" src="assets/img/tools/vitejs.svg" /> 
+  <img width="10%" src="assets/img/tools/vitejs.svg" /> 
   &nbsp;&nbsp;&nbsp;
-  <img width="13%" src="assets/img/frameworksorlibs/html5.svg" /> 
+  <img width="8%" src="assets/img/frameworksorlibs/html5.svg" /> 
   &nbsp;&nbsp;&nbsp;
-  <img width="13%" src="assets/img/frameworksorlibs/css3.svg" /> 
+  <img width="8%" src="assets/img/frameworksorlibs/css3.svg" /> 
   &nbsp;&nbsp;&nbsp;
-  <img width="20%" src="assets/img/frameworksorlibs/sass-1.svg" /> 
+  <img width="13%" src="assets/img/frameworksorlibs/sass-1.svg" /> 
   &nbsp;&nbsp;&nbsp;
 </p>
 
@@ -85,24 +74,24 @@ I like to learn new things about science and technology. As well as the correct 
 
 ### Tools
 <p>
-  <img width="20%" src="assets/img/tools/apache-maven.svg" /> 
+  <img width="13%" src="assets/img/tools/apache-maven.svg" /> 
   &nbsp;&nbsp;&nbsp;
-  <img width="13%" src="assets/img/tools/composer.svg" /> 
+  <img width="10%" src="assets/img/tools/composer.svg" /> 
   &nbsp;&nbsp;&nbsp;
-  <img width="20%" src="assets/img/tools/npm.svg" /> 
+  <img width="18%" src="assets/img/tools/npm.svg" /> 
   &nbsp;&nbsp;&nbsp;
-  <img width="20%" src="assets/img/tools/git-icon.svg" /> 
+  <img width="10%" src="assets/img/tools/git-icon.svg" /> 
   &nbsp;&nbsp;&nbsp;
 </p>
 
 ### Databases
 
 <p>
-  <img width="20%" src="assets/img/db/mysql-logo.svg" /> 
+  <img width="12%" src="assets/img/db/mysql-logo.svg" /> 
   &nbsp;&nbsp;&nbsp;
-  <img width="14%" src="assets/img/db/postgresql.svg" /> 
+  <img width="9%" src="assets/img/db/postgresql.svg" /> 
   &nbsp;&nbsp;&nbsp;
-  <img width="22%" src="assets/img/db/microsoft-sql-server-1.svg" /> 
+  <img width="15%" src="assets/img/db/microsoft-sql-server-1.svg" /> 
   &nbsp;&nbsp;&nbsp;
 </p>
 
@@ -111,9 +100,9 @@ I like to learn new things about science and technology. As well as the correct 
 ### S.O.
 
 <p>
-  <img width="20%" src="assets/img/so/microsoft-windows-22.svg" /> 
+  <img width="10%" src="assets/img/so/microsoft-windows-22.svg" /> 
   &nbsp;&nbsp;&nbsp;
-  <img width="20%" src="assets/img/so/linux-tux-1.svg" /> 
+  <img width="10%" src="assets/img/so/linux-tux-1.svg" /> 
   &nbsp;&nbsp;&nbsp;
 </p>
 
